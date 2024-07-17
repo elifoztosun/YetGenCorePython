@@ -1,0 +1,6 @@
+ürünün adı:('patates',)
+ürünün fiyatı:20tl
+ürünün adı:('ekmek',)
+ürünün fiyatı:1
+ürünün adı:('havlu',)
+ürünün fiyatı:80

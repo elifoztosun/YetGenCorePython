@@ -1,0 +1,4 @@
+Normaller:
+ İsim Soyisim: i, Yaş: 5, Boy: 160.0 cm, Kilo: 50.0 kg, VKİ: 19.53, Durum: Normal kilolu
+Normaller:
+ İsim Soyisim: ş, Yaş: 52, Boy: 160.0 cm, Kilo: 51.0 kg, VKİ: 19.92, Durum: Normal kilolu

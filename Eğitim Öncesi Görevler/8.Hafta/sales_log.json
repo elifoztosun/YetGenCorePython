@@ -25,4 +25,32 @@
         "price": 4,
         "date": "2024-07-21T16:26:25.798750"
     }
+][
+    {
+        "chosen fruits": [
+            "apple",
+            "watermelon",
+            "blueberry",
+            "orange"
+        ],
+        "price": 17,
+        "date": "2024-07-21T16:39:32.405215"
+    }
+][
+    {
+        "chosen fruits": [
+            "peach"
+        ],
+        "price": 5,
+        "date": "2024-07-21T16:41:13.150411"
+    }
+][
+    {
+        "chosen fruits": [
+            "apple",
+            "orange"
+        ],
+        "price": 7,
+        "date": "2024-07-21T16:42:45.941458"
+    }
 ]

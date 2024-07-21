@@ -1,0 +1,28 @@
+[
+    {
+        "chosen fruits": [
+            "apple",
+            "blueberry"
+        ],
+        "price": 11,
+        "date": "2024-07-21T16:24:05.200558"
+    }
+][
+    {
+        "chosen fruits": [
+            "orange",
+            "apple",
+            "blueberry"
+        ],
+        "price": 13,
+        "date": "2024-07-21T16:24:43.048488"
+    }
+][
+    {
+        "chosen fruits": [
+            "watermelon"
+        ],
+        "price": 4,
+        "date": "2024-07-21T16:26:25.798750"
+    }
+]

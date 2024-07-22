@@ -53,4 +53,14 @@
         "price": 7,
         "date": "2024-07-21T16:42:45.941458"
     }
+][
+    {
+        "chosen fruits": [
+            "blueberry",
+            "strawberry",
+            "watermelon"
+        ],
+        "price": 16,
+        "date": "2024-07-21T16:46:56.984270"
+    }
 ]
